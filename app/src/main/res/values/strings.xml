@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MovieThearter</string>
+    <string name="title">Title</string>
+    <string name="author">Author</string>
+    <string name="Filmheroes">Film heroes</string>
+    <string name="Year">Year</string>
+    <string name="namefilm">namefilm</string>
+    <string name="yearfilm">yearfilm</string>
+    <string name="PLay">play</string>
+
+</resources>
